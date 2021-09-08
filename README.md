@@ -1,12 +1,17 @@
 # Bonus 3: Rotate Array Clockwise
 
-**Fork and then clone me!**
+## Learning Goals
 
-Given an input Array, rotate `k` units clockwise, i.e. shift the values rightward `k` units.
+- Practice algorithmic problem solving
 
-`k` is an Integer >= 0.
+## Instructions
 
-```
+Given an input Array, rotate `k` units clockwise, i.e. shift the values
+rightward `k` units.
+
+`k` is an integer that is greater than or equal to 0.
+
+```txt
 Input: [1, 2, 3, 4], 1
 Output: [4, 1, 2, 3]
 
@@ -17,9 +22,10 @@ Input: [1, 2, 3], 3
 Output: [1, 2, 3]
 ```
 
-Use the language of your choosing. We've included starter files for some languages where you can pseudocode, explain your solution and code.
+Use the language of your choosing. We've included starter files for some
+languages where you can pseudocode, explain your solution and code.
 
-## Before you start coding:
+## Before you start coding
 
 1. Rewrite the problem in your own words
 2. Validate that you understand the problem
